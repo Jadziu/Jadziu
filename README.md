@@ -6,5 +6,6 @@ Trying to take second step in software engineering. Currently learning PYTHON, s
 
 ## Current project:
 - KeyRoom (DONE)
-- Pommodoro timer
-- Project timer
+- Pommodoro timer (DONE)
+- Project timer (FUTURE)
+- Home assistant (IN PROGRESS)
