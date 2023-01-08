@@ -9,3 +9,4 @@ Trying to take second step in software engineering. Currently learning PYTHON, s
 - Pommodoro timer (DONE)
 - Project timer (FUTURE)
 - Home assistant (IN PROGRESS)
+- Time machine (IN PROGRESS)
